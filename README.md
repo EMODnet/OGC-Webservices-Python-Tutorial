@@ -18,8 +18,8 @@ For an introduction to OGC web services and a full list of URL's you can access 
 The tutorial exists of four parts:
 - [Part 1: Search through metadata using the OGC Catalogue Service (CSW)](./Tutorial_Part_1_CSW.ipynb) 
 - [Part 2: Visualize data using OGC Web Mapping Service (WMS)]([./Tutorial_Part_2_WMS.ipynb)) 
-- [Part 3: Subset and download data using OGC Web Feature and Coverage Services (WFS/WCS)](.Tutorial_Part_3_WFS_WCS.ipynb)
-- [Part 4: Create interactive maps using OGC Web Mapping Tiles Services(WMTS)](.Tutorial_Part_4_WMTS.ipynb)
+- [Part 3: Subset and download data using OGC Web Feature and Coverage Services (WFS/WCS)](./Tutorial_Part_3_WFS_WCS.ipynb)
+- [Part 4: Create interactive maps using OGC Web Mapping Tiles Services(WMTS)](./Tutorial_Part_4_WMTS.ipynb)
 
 You can also run the tutorial interactively with Binder:
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/EMODnet/OGC-Webservices-Python-Tutorial/HEAD?urlpath=lab/tree/Tutorial_Part_1_CSW.ipynb)
